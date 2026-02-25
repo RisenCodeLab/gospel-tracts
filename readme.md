@@ -1,6 +1,6 @@
 # Gospel Tracts
 
-[![Build Status](https://github.com/christ-resurrected/gospel-tracts/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/christ-resurrected/gospel-tracts/actions/workflows/ci.yml)
+[![Build Status](https://github.com/RisenCodeLab/gospel-tracts/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/RisenCodeLab/gospel-tracts/actions/workflows/ci.yml)
 
 ## [tract_A6_2s.pdf](pdf/tract_A6_2s.pdf)
 
