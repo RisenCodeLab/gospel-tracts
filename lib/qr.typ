@@ -1,7 +1,7 @@
 #import "@preview/rustycure:0.1.0": qr-code
 
 #let qr-footer(size: 11mm, padding-bottom: 0pt, text-col-width: 100%) = {
-  let domain = "me2Christ.com"
+  let domain = "meToChrist.com"
   let qr-size = size
   set par(justify: false, leading: 0.5em)
   place(
