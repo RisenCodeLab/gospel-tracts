@@ -101,7 +101,7 @@
     )[THE GOSPEL OF \ JESUS CHRIST] #v(-2mm)
     #verse[Matthew 4:17][From that time Jesus began to preach and to say, *#quote[Repent, for the kingdom of heaven is at hand.]<jesus>*]
 
-    The kingdom of God was opened to us when Jesus came. He is King of kings and Lord of lords, the Son of God, the Saviour, and the One who will judge the world. Jesus is the One we must *obey* if we want to be a part of the eternal kingdom we were created for.
+    The kingdom of God was opened to us when Jesus came. He is God in the flesh #see[John 1:1,14], the Son of God, the Saviour, and the One who will judge the world. Jesus is the One we must *obey* if we want to be a part of the eternal kingdom we were created for.
     #see[Mat.24:14; Mark 1:14-15, 9:47; Luke 4:43; John 3:3-5]
 
     #svg-heading("cross", hd-w: 5.5fr, img-w: 18pt, img-scale-y: 1.02, level: 2)[JESUS DIED AND ROSE FROM THE GRAVE]
@@ -125,6 +125,6 @@
     Being a Christian means a *full surrender* of your whole life to Jesus as your Lord and King. If you are ready for that commitment, you must *repent* and be baptized in His name. Then you must learn to *obey* all He taught and commanded, take up your cross, and follow Him to the very end. God will help you if you are *willing* and *obedient*
     #see[Mat.10:37-39; Luke 9:23-25, 14:26-33; John 14:21, 15:1-10; Php.3:12-14; 1-John 3:3-10].
 
-    #qr-footer(padding-bottom: 3pt, size: 10mm, text-col-width: 50%)
+    #qr-footer(size: 10mm, text-col-width: 50%)
   ],
 )
