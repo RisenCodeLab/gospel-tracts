@@ -38,7 +38,7 @@
 
   Just as Jesus humbled Himself in *obedience* to the point of death on a cross, was buried, and rose on the third day, we must also follow His example and take up our own cross, humble ourselves and turn away from our sins in *repentance*, bury the old life of sin in *baptism*, and be raised to a new life by receiving the *Holy Spirit* #see[John 3:3-7; Acts 2:38, 3:19, 5:32, 8:15-17].
 
-  Then with our sins forgiven, we must submit and walk humbly with God and *keep* His commandments to the very end #see[Matthew 24:13; Gal.2:20, 5:22-25; Titus 2:11-14; Heb.5:9].
+  Then with our sins forgiven, we must *submit* and walk humbly with God and *keep* His commandments to the very end #see[Matthew 24:13; Gal.2:20, 5:22-25; Titus 2:11-14; Heb.5:9].
   This is eternal life #see[John 17:3].
 
   #qr-footer(text-col-width: 70%)

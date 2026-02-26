@@ -114,7 +114,7 @@
     #svg-heading("seedling", hd-w: 4fr, img-scale-y: 1.1, level: 2)[FORGIVENESS AND \ ETERNAL LIFE OFFERED]
     #verse[John 14:6][Jesus said to him, *#quote[I am the way, the truth, and the life. No one comes to the Father except through Me.]<jesus>*]
 
-    All who trust Jesus and *humbly submit* to His authority are forgiven by God. They are released from sin's captivity and receive the *Holy Spirit*, empowered for a supernatural life. This is a gift of God’s grace, but not something we can abuse. Scripture urges Christians to remain in the grace of God and warns them not to receive it in vain.
+    All who *obey* Jesus and humbly *submit* to His authority are forgiven by God. They are released from sin's captivity and receive the *Holy Spirit*, empowered for a supernatural life. This is a gift of God’s grace, but not something we can abuse. Scripture urges Christians to remain in the grace of God and warns them not to receive it in vain.
     #see[Acts 5:32, 10:43, 13:38-39; Rom.11:22; 2-Cor.5:17, 6:1; Eph.2:8-10; Titus 2:11-14]
   ],
   [
@@ -122,7 +122,7 @@
     #verse[Acts 2:38][Then Peter said to them,\ *#quote[Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit.]*]
     #seeAlso[Acts 3:19, 8:36-39, 22:16; Romans 6:3-7].
 
-    Being a Christian means a *full surrender* of your whole life to Jesus as your Lord and King. If you are ready for that commitment, you must *repent* and be baptized in His name. Then you must learn to *obey* all He taught and commanded, take up your cross, and follow Him to the very end. God will help you if you are *willing* and *obedient*
+    Being a Christian means a *full surrender* of your whole life to Jesus as your Lord and King. If you are ready for that commitment, you must *repent* and be *baptized* in His name. Then you must learn to *obey* all He taught and commanded, take up your cross, and follow Him to the very end. God will help you if you are *willing* and *obedient*
     #see[Mat.10:37-39; Luke 9:23-25, 14:26-33; John 14:21, 15:1-10; Php.3:12-14; 1-John 3:3-10].
 
     #qr-footer(size: 10mm, text-col-width: 50%)
