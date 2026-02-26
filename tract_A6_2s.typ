@@ -34,12 +34,12 @@
     img-scale-x: -1,
   )[REPENT, FOR THE KINGDOM OF HEAVEN IS AT HAND!]
 
-  #v(-2mm) Jesus came to free us from sin, to open our eyes and turn us from darkness to light, and from the power of Satan to God #see[Acts 26:18], to transform us into people who *love* God and *practice righteousness*.
+  #v(-2mm) Jesus Christ came to free us from sin, to open our eyes and turn us from darkness to light, and from the power of Satan to God #see[Acts 26:18], to transform us into people who *love* God and *practice righteousness*.
 
   Just as Jesus humbled Himself in *obedience* even to the point of death on a cross, was buried, and rose on the third day, we must also follow His example and take up our own cross, humble ourselves and turn away from our sins in true *repentance*, bury the old life of sin in baptism, and be raised to a new life by receiving the Holy Spirit #see[John 3:3-7; Acts 2:38, 3:19, 5:32, 8:15-17].
 
   With our sins forgiven, we enter into a supernatural relationship with God, walking humbly with Him and *keeping* His commandments to the very end #see[Matthew 24:13; Gal.2:20, 5:22-25; Titus 2:11-14; Heb.5:9].
   This is eternal life #see[John 17:3].
 
-  #qr-footer(padding-bottom: 10pt, text-col-width: 70%)
+  #qr-footer(text-col-width: 70%)
 ]
