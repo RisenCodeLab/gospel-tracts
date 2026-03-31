@@ -34,7 +34,7 @@
     img-scale-x: -1,
   )[REPENT, FOR THE KINGDOM OF HEAVEN IS AT HAND!]
 
-  #v(-2mm) Jesus Christ is God in the flesh #see[John 1:1,14], the Son of God who came to free us from sin, to open our eyes and turn us from darkness to light, and from the power of Satan to God #see[Acts 26:18], to transform us into people who *love* God and *practice righteousness* #see[Mark 12:30; 1 John 3:7].
+  #v(-2mm) Jesus Christ is God in the flesh #see[John 1:1,14], the eternal Son of God who came to free us from sin, to open our eyes and turn us from darkness to light, and from the power of Satan to God #see[Acts 26:18], to transform us into people who *love* God and *practice righteousness* #see[1 John 3:7].
 
   Just as Jesus humbled Himself in *obedience* to the point of death on a cross, was buried, and rose on the third day, we must also follow His example and take up our own cross, humble ourselves and turn away from our sins in *repentance*, bury the old life of sin in *baptism*, and be raised to a new life by receiving the *Holy Spirit* #see[John 3:3-7; Acts 2:38, 3:19, 5:32, 8:15-17].
 
