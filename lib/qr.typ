@@ -1,4 +1,4 @@
-#import "@preview/rustycure:0.1.0": qr-code
+#import "@preview/rustycure:0.2.0": qr-code
 
 #let qr-footer(size: 11mm, padding-bottom: 0pt, text-col-width: 100%) = {
   let domain = "meToChrist.com"
