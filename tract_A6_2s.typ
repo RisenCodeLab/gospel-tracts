@@ -36,9 +36,10 @@
 
   #v(-2mm) Jesus Christ is God in the flesh #see[John 1:1,14], the eternal Son of God who came to free us from sin, to open our eyes and turn us from darkness to light, and from the power of Satan to God #see[Acts 26:18], to transform us into people who *love* God and *love* one another #see[Mark 12:30-31].
 
-  Just as Jesus humbled Himself in *obedience* to the point of death on a cross, was buried and rose on the third day, we must follow His example and humble ourselves, take up our own cross and forsake our sins, bury the old life in *baptism* and be raised to live a *righteous* life by receiving the *Holy Spirit* and becoming *born again*. #see[John 3:3-7, 7:37-39; Acts 2:38, 3:19, 5:32, 8:15-17].
+  Just as Jesus humbled Himself in *obedience* to the point of death on a cross, was buried and rose on the third day, we must follow His example and humble ourselves, bury the old life in *baptism* and be raised to a changed life by receiving the *Holy Spirit* and becoming *born again*. #see[John 3:3-7, 7:37-39; Acts 2:38, 3:19, 5:32, 8:15-17].
 
-  With our sins forgiven we must *submit* and walk humbly with God and *keep* His commandments to the very end #see[Matthew 24:13; Gal.2:20, 5:22-25; Titus 2:11-14; Heb.5:9].
+  Then with our sins forgiven by His blood, we must take up our cross to live a holy and righteous life, *keeping* His commandments to the very end #see[Matt.24:13; John 14:21; Gal.2:20, 5:22-25; Titus 2:11-14; 1 John 3:7].
+
   This is eternal life #see[John 17:3].
 
   #qr-footer(text-col-width: 70%)
