@@ -9,7 +9,7 @@
     grid(
       columns: (text-col-width, qr-size), gutter: 5mm
     )[
-      #pad(bottom: padding-bottom)[Please visit *#text(black)[#domain]*]
+      #pad(bottom: padding-bottom)[#text(black)[#domain]]
     ][
       #qr-code("https://" + domain, quiet-zone: false)
     ],
